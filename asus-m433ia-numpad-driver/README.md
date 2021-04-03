@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/mohamed-badaoui/ux433-touchpad-numpad/blob/main/asus-m433ia-numpad-driver/Asus-VivoBook-M433IA.jpg)
 
-This is a python service which enables switching between numpad and touchpad for the Asus UX433.
+This is a python service which enables switching between numpad and touchpad for the Asus M433IA.
 It may work for other models.
 
 Before installation, you need to check/modify the ic2 adapter number in ux433_touchpad_numpad.py file
